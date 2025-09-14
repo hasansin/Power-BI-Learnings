@@ -8,4 +8,7 @@ pricepercent → relative price of the candy compared to others.
 Voting outcome:
 winpercent → the percentage of matchups that a candy won in the survey, reflecting its overall popularity among voters.
 
+You can view the live dashboard here:  
+👉 [View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjU5NjUxZGQtOWY4Zi00NzYxLWJiMjQtNGQxY2M4YTViNWUyIiwidCI6IjUxYTBhNjljLTBlNGYtNGIzZC1iNjQyLTEyZTAxMzE5ODYzNSIsImMiOjh9)
+
 <img width="2996" height="1735" alt="image" src="https://github.com/user-attachments/assets/635cb637-0076-4758-9254-2949fef1d001" />
